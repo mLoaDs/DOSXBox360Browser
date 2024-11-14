@@ -1,3 +1,5 @@
+![dosbox-logo_banner](https://github.com/user-attachments/assets/d0c8332a-0377-4579-9ece-2c6c6f192b61)
+
 # DOSXBox360 Browser
 DOSXBox360 Browser by begal is an application to aid in using the Xbox360 port of DOSBox
 
