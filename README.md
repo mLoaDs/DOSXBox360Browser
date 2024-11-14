@@ -1,6 +1,8 @@
 # DOSXBox360 Browser
 DOSXBox360 Browser by begal is an application to aid in using the Xbox360 port of DOSBox
 
+https://github.com/mLoaDs/DOSXBox360
+
 Anybody that has ever used DOSBox on their Jtag/RGH/XDK know that its kind of a pain to copy each .config file 
 every time you want to launch a game (if you want it to auto execute that is) ,, this app solves the issue
 
